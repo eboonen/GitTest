@@ -19,7 +19,7 @@ namespace GitTest
 
         private void btnKlik_Click(object sender, EventArgs e)
         {
-            picFiguur.Visible = false;
+            picFiguur.Visible = true;
         }
 
         private void picFiguur_Click(object sender, EventArgs e)
