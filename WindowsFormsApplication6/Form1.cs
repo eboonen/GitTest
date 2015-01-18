@@ -25,7 +25,7 @@ namespace GitTest
         private void picFiguur_Click(object sender, EventArgs e)
         {
             picFiguur.Visible = false;
-            
+            this.BackColor = Color.White;
         }
     }
 
